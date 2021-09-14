@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Platzi Mongo
 Todo el código que escribirás para el proyecto platzi-mongo
 estará en el archivo db.py
@@ -42,3 +43,6 @@ export PLATZI_DB_URI="MONGO-URI"
 ```
 flask run
 ```
+=======
+# apiFlaskCourses
+>>>>>>> 4b3866cedf74bba97b850427c0cb3f6d3cfe9de1
